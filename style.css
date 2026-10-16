@@ -94,7 +94,7 @@ header{
     gap: 16px;
     background-image: url('images/leaf.svg');
     background-repeat: no-repeat;
-    background-position:  right top;
+    background-position: right top;
 }
 nav, .meta, .pagination{
     display: flex;
